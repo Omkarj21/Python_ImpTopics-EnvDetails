@@ -1,0 +1,38 @@
+• Software on Machine
+	o Python 
+		- https://www.python.org/downloads/windows/
+	o PyCharm Community
+		- https://www.jetbrains.com/pycharm/download/#section=windows
+	o Anaconda Distribution
+		- https://www.anaconda.com/products/individual
+
+• Apps on Mobile
+	o Programiz Python
+	o Sololearn
+	o geeksforgeeks Python
+
+• Websites to refer 
+	o https://www.geeksforgeeks.org/python-programming-language
+	o https://www.programiz.com/python-programming
+
+• Beginners 
+	o Variables
+	o Conditions
+	o Operators
+	o Control Flow
+	o Loops & Iterables
+	o Functions
+	o Data Structures
+	o File IO
+	o Environments
+
+• Advance 
+	o Oops Concept
+	o Comprehensions
+	o Lambda Function
+	o Map / Filter
+	o Collections
+	o Inheritance
+	o Decorators
+	o Generators
+	o Exceptions Handling
