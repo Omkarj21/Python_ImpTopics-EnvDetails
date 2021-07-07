@@ -1,4 +1,4 @@
-• Software on Machine
+â€¢ Software on Machine
 	o Python 
 		- https://www.python.org/downloads/windows/
 	o PyCharm Community
@@ -6,16 +6,16 @@
 	o Anaconda Distribution
 		- https://www.anaconda.com/products/individual
 
-• Apps on Mobile
+â€¢ Apps on Mobile
 	o Programiz Python
 	o Sololearn
 	o geeksforgeeks Python
 
-• Websites to refer 
+â€¢ Websites to refer 
 	o https://www.geeksforgeeks.org/python-programming-language
 	o https://www.programiz.com/python-programming
 
-• Beginners 
+â€¢ Beginners 
 	o Variables
 	o Conditions
 	o Operators
@@ -26,7 +26,7 @@
 	o File IO
 	o Environments
 
-• Advance 
+â€¢ Advance 
 	o Oops Concept
 	o Comprehensions
 	o Lambda Function
@@ -36,3 +36,20 @@
 	o Decorators
 	o Generators
 	o Exceptions Handling
+	o Shallow Copy - Deep Copy
+	
+â€¢ Frameworks : Rest API
+	o Flask : CRUD
+	o Django : CRUD
+
+â€¢ Python with Databases
+	o MySQL : CRUD : https://www.w3schools.com/python/python_mysql_getstarted.asp
+	o MongoDB : CRUD : https://www.w3schools.com/python/python_mongodb_getstarted.asp
+
+â€¢ Deploy Python REST API Apps
+	o Heroku
+	o Pivotal
+	o GCP : Google Cloud Platform
+	o Microsoft Azure
+	o AWS
+	
